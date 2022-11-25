@@ -1,0 +1,160 @@
+{
+  "unidades": [
+    {
+      "id": 1,
+      "nome": "Cantina da Família",
+      "rua": "Avenida 9 de Julho",
+      "cidade": "São Paulo",
+      "CEP": "08123235",
+      "estado": "SP",
+      "telefone": "11985069789",
+      "descricao": "Um lugar para passar o dia com a família, um lindo espaço de lazer e uma comida ótima!",
+      "imagem": "https://images.pexels.com/photos/983297/pexels-photo-983297.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 2,
+      "nome": "Cantina Nossa",
+      "rua": "Rua Benjamin Constant",
+      "cidade": "São Paulo",
+      "CEP": "08896235",
+      "estado": "SP",
+      "telefone": "11985063459",
+      "descricao": "Aqui todos nós somos apaixonados por ",
+      "imagem": "https://images.pexels.com/photos/2233730/pexels-photo-2233730.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 3,
+      "nome": "Cantina dos Amigos",
+      "rua": "Avenida Cruzeiro do Sul",
+      "cidade": "São Paulo",
+      "CEP": "56786235",
+      "estado": "SP",
+      "telefone": "11985061234",
+      "descricao": "Venha para nossa cantina aproveitar o dia com música ao vivo, cerveja e petiscos!",
+      "imagem": "https://images.pexels.com/photos/1058277/pexels-photo-1058277.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 4,
+      "nome": "Cantina do Zé",
+      "rua": "Rua Oscar Freire",
+      "cidade": "São Paulo",
+      "CEP": "08496135",
+      "estado": "SP",
+      "telefone": "11985028589",
+      "descricao": "Um ambiente perfeito para bater papo, ouvir música boa e aproveitar bons momentos com os amigos",
+      "imagem": "https://images.pexels.com/photos/2585614/pexels-photo-2585614.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 5,
+      "nome": "Cantina da Dona Maria",
+      "rua": "Rua Galvão Bueno",
+      "cidade": "São Paulo",
+      "CEP": "92463235",
+      "estado": "SP",
+      "telefone": "11985193029",
+      "descricao": "Venha conhecer a mão cheia de Dona Maria, comidas deliciosas e um ambiente bonito",
+      "imagem": "https://images.pexels.com/photos/2313037/pexels-photo-2313037.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ],
+  "cardapio": [
+    {
+      "pratos":[
+        {
+          "hamburgueres": [
+            {
+              "id":1,
+              "nome": "X-Salada",
+              "ingredientes": [
+                "Hamburguer 150g",
+                "Alface",
+                "Tomate",
+                "Molho verde",
+                "Bacon",
+                "Queijo cheddar"
+              ],
+              "preco": "31,99",
+              "imagem": "https://images.pexels.com/photos/1639565/pexels-photo-1639565.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+            },
+            {
+              "id":2,
+              "nome": "X-Burguer",
+              "ingredientes": [
+                "Hamburguer 300g",
+                "Molho verde",
+                "Bacon",
+                "Queijo cheddar",
+                "Queijo provolone"
+              ],
+              "preco": "36,99",
+              "imagem": "https://images.pexels.com/photos/1108117/pexels-photo-1108117.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            },
+            {
+              "id":1,
+              "nome": "",
+              "ingredientes": [
+                "2 Hamburgueres 300g",
+                "Alface",
+                "Tomate",
+                "Molho verde",
+                "Bacon",
+                "Queijo cheddar",
+                "Queijo provolone"
+              ],
+              "preco": "49,99",
+              "imagem": "https://images.pexels.com/photos/2983101/pexels-photo-2983101.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+            }
+          ],
+          "lanches":[
+            {
+              "id":1,
+              "nome": "Sanduiche Grelhado",
+              "ingredientes": [
+                "Filé grelhado de frango",
+                "Alface",
+                "Tomate",
+                "Molho branco",
+                "Queijo mussarela"
+              ],
+              "preco": "24,99",
+              "imagem": "https://images.pexels.com/photos/1633572/pexels-photo-1633572.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+            },
+            {
+              "id":2,
+              "nome": "Sanduiche de Queijo",
+              "ingredientes": [
+                "Pão integral",
+                "Queijo cheddar",
+                "Queijo provolone",
+                "Queijo mussarela"
+              ],
+              "preco": "29,99",
+              "imagem": "https://images.pexels.com/photos/4559174/pexels-photo-4559174.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+            },
+            {
+              "id":3,
+              "nome": "Sanduiche light",
+              "ingredientes": [
+                "Ovos",
+                "Alface",
+                "Tomate",
+                "Molho verde light"
+              ],
+              "preco": "37,99",
+              "imagem": "https://images.pexels.com/photos/7937469/pexels-photo-7937469.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+            }
+          ]
+        }
+      ],
+      "bebidas":[
+        {
+          "id": 1
+        }
+      ]
+    }
+  ]
+}
